@@ -1,0 +1,9 @@
+{
+  "name": "ibm_db_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ibm_db": "^3.2.1"
+  }
+}

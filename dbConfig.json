@@ -1,0 +1,13 @@
+{
+    "DB2" : {
+        "MUSICDBDEV" : {
+            "DRIVER":"{DB2}",
+            "DATABASE":"MUSICDB",
+            "UID":"mbsinst",
+            "PWD":"mbsinst",
+            "HOSTNAME" : "10.11.32.139",
+            "PORT":50000,
+            "PROTOCOL" : "TCPIP"
+        }
+    }
+}
